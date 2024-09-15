@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedammarxd" target="blank"><img src="https://img.shields.io/twitter/follow/syedammarxd?logo=twitter&style=for-the-badge" alt="syedammarxd" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://muhammad-ammar.vercel.app/](https://muhammad-ammar.vercel.app/)
+- 👨‍💻 All of my projects are available at my portfolio webpage [https://muhammad-ammar.vercel.app/](https://muhammad-ammar.vercel.app/)
 
 - 💬 Ask me about **Android, IOS, Flutter, Web3, Artificial Intelligence**
 
